@@ -5,7 +5,7 @@ IP/domain query tool for alfred-workflow based on [ip.sb](https://ip.sb)
 # download
 
 1. go to [release](https://github.com/qwqmeow/ipsb-alfred-workflow/releases)
-2. download the lastest release file
+2. download the lastest release file(filename ends with '.alfredworkflow')
 3. double click the file to install
 
 # usage
