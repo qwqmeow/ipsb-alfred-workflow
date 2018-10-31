@@ -10,7 +10,7 @@ IP/domain query tool for alfred-workflow based on [ip.sb](https://ip.sb)
 
 # usage
 
-query your pucblic ip address:
+query your public ip address:
 
 1. just launch alfred window
 2. type 'ipsb' in window
